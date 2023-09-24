@@ -1,0 +1,4 @@
+docs/dist
+__pycache__
+tags
+*.vim

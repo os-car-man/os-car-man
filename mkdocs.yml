@@ -1,0 +1,50 @@
+site_name: os-car-man
+theme:
+  name: material
+        # highlightjs: true
+        # hljs_languages:
+        #     - python
+  language: ru
+  palette:
+    primary: black
+  features:
+    - content.code.copy
+    - content.action.edit
+  icon:
+    edit: material/pencil 
+    view: material/eye
+
+repo_name: westandskif/os-car-man
+repo_url: https://github.com/westandskif/os-car-man
+edit_uri: edit/main/docs/
+
+nav:
+  - "Zeekr - Общее":
+     - Введение: README.md
+     - Покупка: zeekr/покупка.md
+  - "Zeekr - Обслуживание":
+     - "Zeekr 001": other.md
+     - "Zeekr 009": other.md
+     - "Zeekr X": other.md
+  - "История изменений": CHANGELOG.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - tables
+  - markdown_include.include:
+      base_path: docs
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.highlight:
+      use_pygments: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - attr_list
+  - md_in_html
+
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
