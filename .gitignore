@@ -2,3 +2,5 @@ docs/dist
 __pycache__
 tags
 *.vim
+.cache/
+.bash_history

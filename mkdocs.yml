@@ -26,6 +26,7 @@ nav:
      - "Zeekr 001": other.md
      - "Zeekr 009": other.md
      - "Zeekr X": other.md
+  - "Поучаствовать": CONTRIBUTING.md
   - "История изменений": CHANGELOG.md
 
 markdown_extensions:
