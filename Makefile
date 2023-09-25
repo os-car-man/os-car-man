@@ -10,4 +10,4 @@ docs:
 	$(DOCKER_ENTRY) mkdocs serve -a 0.0.0.0:7777
 
 bash:
-	$(DOCKER_ENTRY) bash
+	docker run --rm -it -v $$PWD:/home/docs/project os-car-man:latest bash

@@ -11,12 +11,37 @@
 
 ## Режим разработчика
 
-- установить [Docker](https://docs.docker.com/engine/install/)
-- **TO BE CHECKED** установить `make` - [help
-  link](https://stackoverflow.com/a/57042516/5387738)
-- запустить `make build`, чтобы собрать образ, необходимый для локальной работы
-  с документацией
-- запустить `make docs`
-- открыть [http://localhost:7777](http://localhost:7777) в браузере
-- внести изменения, отправить их на Github и создать Pull request
+===! "Mac OS / Linux"
+    - установить [Docker](https://docs.docker.com/engine/install/)
+    - сделать форк и склонировать забрать его себе
+    - запустить `make build`, чтобы собрать образ, необходимый для локальной
+      работы с документацией
+    - запустить `make docs`
+    - открыть [http://localhost:7777](http://localhost:7777) в браузере
+    - внести изменения в код (навигация в `mkdocs.yml` в корне, сама
+      документация в папке `docs`)
+    - проверить результат в браузере
+    - отправить изменения на Github и создать Pull request
 
+=== "Windows"
+    - установить [Docker](https://docs.docker.com/engine/install/)
+    - **TO BE CHECKED** установить `make` - [help
+      link](https://stackoverflow.com/a/57042516/5387738)
+    - сделать форк и склонировать забрать его себе
+    - запустить `make build`, чтобы собрать образ, необходимый для локальной
+      работы с документацией
+    - запустить `make docs`
+    - внести изменения в код (навигация в `mkdocs.yml` в корне, сама
+      документация в папке `docs`)
+    - проверить результат в браузере
+    - отправить изменения на Github и создать Pull request
+
+#### Добавление плагинов / библиотек
+
+- `make bash`
+- `cd ci-requirements/`
+- `poetry add {name_of_dependency}`
+- `poetry export -o requirements.txt`
+- выйти из контейнера
+- `make build`
+- `make docs`
