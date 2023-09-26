@@ -26,6 +26,7 @@ nav:
      - "Обслуживание": todo.md
   - "Поучаствовать": CONTRIBUTING.md
   - "История изменений": CHANGELOG.md
+  - "О проекте": about.md
 
 markdown_extensions:
   - toc:

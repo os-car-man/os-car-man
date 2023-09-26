@@ -5,3 +5,4 @@ tags
 .cache/
 .bash_history
 **/.DS_Store
+.notes
