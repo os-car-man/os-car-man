@@ -19,13 +19,11 @@ repo_url: https://github.com/westandskif/os-car-man
 edit_uri: edit/main/docs/
 
 nav:
-  - "Zeekr - Общее":
+  - "Zeekr из Китая - Общее":
      - Введение: README.md
-     - Покупка: zeekr/покупка.md
-  - "Zeekr - Обслуживание":
-     - "Zeekr 001": other.md
-     - "Zeekr 009": other.md
-     - "Zeekr X": other.md
+     - "WeChat & eSender": todo.md
+     - "Активация машины / RNR": todo.md
+     - "Обслуживание": todo.md
   - "Поучаствовать": CONTRIBUTING.md
   - "История изменений": CHANGELOG.md
 
@@ -34,6 +32,7 @@ markdown_extensions:
       permalink: true
   - admonition
   - tables
+  - footnotes
   - markdown_include.include:
       base_path: docs
   - pymdownx.tabbed:
