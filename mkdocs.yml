@@ -21,8 +21,8 @@ edit_uri: edit/main/docs/
 nav:
   - "Zeekr из Китая - Общее":
      - Введение: README.md
-     - "TODO: WeChat & eSender": todo.md
-     - "TODO: Активация машины / RNR": todo.md
+     - "WeChat & eSender": wechat_n_esender.md
+     - "Активация машины / RNR": activate_car.md
      - "TODO: Обслуживание": todo.md
   - "Zeekr из Китая - FAQ": FAQ.md
   - "Поучаствовать": CONTRIBUTING.md
