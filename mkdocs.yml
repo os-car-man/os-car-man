@@ -24,6 +24,7 @@ nav:
      - "WeChat & eSender": todo.md
      - "Активация машины / RNR": todo.md
      - "Обслуживание": todo.md
+  - "FAQ": FAQ.md
   - "Поучаствовать": CONTRIBUTING.md
   - "История изменений": CHANGELOG.md
   - "О проекте": about.md
