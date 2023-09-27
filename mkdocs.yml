@@ -11,7 +11,7 @@ theme:
     - content.code.copy
     - content.action.edit
   icon:
-    edit: material/pencil 
+    edit: material/pencil
     view: material/eye
 
 repo_name: westandskif/os-car-man
@@ -31,6 +31,7 @@ nav:
 
 markdown_extensions:
   - toc:
+      slugify: !!python/name:markdown.extensions.toc.slugify
       permalink: true
   - admonition
   - pymdownx.details
@@ -39,7 +40,7 @@ markdown_extensions:
   - markdown_include.include:
       base_path: docs
   - pymdownx.tabbed:
-      alternate_style: true 
+      alternate_style: true
   - pymdownx.highlight:
       use_pygments: true
   - pymdownx.inlinehilite
@@ -51,3 +52,6 @@ markdown_extensions:
 plugins:
   - git-revision-date-localized:
       enable_creation_date: true
+
+hooks:
+  - hooks/patch_slugify.py
