@@ -52,6 +52,7 @@ markdown_extensions:
 plugins:
   - git-revision-date-localized:
       enable_creation_date: true
+  - search
 
 hooks:
   - hooks/patch_slugify.py
