@@ -1,4 +1,4 @@
-site_name: os-car-man
+site_name: OS-Car-Man
 theme:
   name: material
         # highlightjs: true
@@ -26,7 +26,6 @@ nav:
      - "TODO: Обслуживание": todo.md
   - "Zeekr из Китая - FAQ": FAQ.md
   - "Поучаствовать": CONTRIBUTING.md
-  - "История изменений": CHANGELOG.md
   - "О проекте": about.md
 
 markdown_extensions:
