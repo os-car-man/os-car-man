@@ -223,7 +223,7 @@ X
 
         ??? info "фото однофазного порта"
 
-            ![single-phase-port](img/2023-09-26-single-phase-port.jpeg)
+            ![single-phase-port](img/2023-09-26-single-phase-port.jpeg){ loading=lazy }
 
     * 11кВт (три фазы, 16А каждая) - все Zeekr 009, а также 001, выпущенные до
       февраля 2023. Если есть 2 доп. контакта как под красными стрелками,
@@ -231,7 +231,7 @@ X
 
         ??? info "фото трехфазного порта"
 
-            ![triphase-port](img/2023-09-26-triphase-port.jpeg)
+            ![triphase-port](img/2023-09-26-triphase-port.jpeg){ loading=lazy }
 
     !!! info "переходники для медленных зарядок"
         Самым распространенным некитайским стандартом медленной зарядки

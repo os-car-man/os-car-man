@@ -6,7 +6,7 @@
 
 **НИКАК!**
 !!! Danger
-    Серьезно. Самостоятельно вы этого не сможете сделать! Но есть ньюансы, о них далее.
+    Серьезно. Самостоятельно вы этого не сможете сделать! Но есть ньюансы - **TODO**.
 
 ## Как перезагрузить планшет?
 
@@ -26,7 +26,7 @@
   джойстики*)
 
     ??? info "фото"
-        ![2023-10-04-x-reboot](img/2023-10-04-x-reboot.jpg)
+        ![2023-10-04-x-reboot](img/2023-10-04-x-reboot.jpg){ loading=lazy }
 
 
 ## Как перезагрузить блок телематики?
@@ -84,7 +84,7 @@
 
 ??? info "схема"
 
-    ![zeekr-x-out-of-juice](img/2023-09-28-zeekr-x-out-of-juice.jpeg)
+    ![zeekr-x-out-of-juice](img/2023-09-28-zeekr-x-out-of-juice.jpeg){ loading=lazy }
 
 ## Не открывается Bluetooth ключом
 
@@ -111,10 +111,10 @@
   раздвигаем половинки ключа
 
     ??? info "фото"
-        ![2023-10-03-001-bt-key-battery-1.jpeg](img/2023-10-03-001-bt-key-battery-1.jpeg)
+        ![2023-10-03-001-bt-key-battery-1.jpeg](img/2023-10-03-001-bt-key-battery-1.jpeg){ loading=lazy }
 
-        ![2023-10-03-001-bt-key-battery-2.jpeg](img/2023-10-03-001-bt-key-battery-2.jpeg)
-        ![2023-10-03-001-bt-key-battery-3.jpeg](img/2023-10-03-001-bt-key-battery-3.jpeg)
+        ![2023-10-03-001-bt-key-battery-2.jpeg](img/2023-10-03-001-bt-key-battery-2.jpeg){ loading=lazy }
+        ![2023-10-03-001-bt-key-battery-3.jpeg](img/2023-10-03-001-bt-key-battery-3.jpeg){ loading=lazy }
 
 * заменить батарейку CR3032 (*в идеале, Panasonic*)
 
@@ -128,9 +128,9 @@
 * при сборке ориентируйтесь на стрелки на крышке и корпусе ключа
 
     ??? info "схема"
-        ![2023-10-03-x-bt-key-battery](img/2023-10-03-x-bt-key-battery.jpeg)
+        ![2023-10-03-x-bt-key-battery](img/2023-10-03-x-bt-key-battery.jpeg){ loading=lazy }
 
-        ![2023-10-04-x-bt-key-inside](img/2023-10-04-x-bt-key-inside.jpeg)
+        ![2023-10-04-x-bt-key-inside](img/2023-10-04-x-bt-key-inside.jpeg){ loading=lazy }
 
 
 ## Как открыть 001 металлическим ключом?
@@ -155,7 +155,7 @@
   вы часами не смотрите ютюбы, слушаете музыку и мучаете климат.
 
     ??? info "фото"
-        ![2023-10-04-001-low-voltage-drain](img/2023-10-04-001-low-voltage-drain.jpeg)
+        ![2023-10-04-001-low-voltage-drain](img/2023-10-04-001-low-voltage-drain.jpeg){ loading=lazy }
 
 * насосы в сидениях либо слишком часто включаются, либо не выключаются вовсе
   (*гудение можно услышать в тихом месте, включив Drive*).
@@ -174,7 +174,7 @@
 
 ## Как обесточить машину? (через "петлю")
 
-1. Снять минусовую клемму аккумулятора 
+1. Снять минусовую клемму аккумулятора
 1. Отсоединить петлю
 1. Подождать 10 минут, капот не закрывать, потом в обратном порядке: соединить петлю, подключить минусовую клемму аккумулятора.
 
@@ -192,9 +192,28 @@
 сюда](FAQ.md#razryadilas-i-ne-otkryvaetsya-kak-otkryt-kapot-)) и сначала
 зарядить 12В АКБ.
 
-**TODO: for 009**
+**009:**
 
-*Переднее левое колесо - справа сверху?*
+Порт медленной зарядки:
+
+* в арке переднего левого колеса сверху справа (*на два часа*) поверните
+  заглушку
+* потяните за тросик
+
+    ??? info "схема"
+        ![2023-10-04-009-unlock-slow-charging-port](img/2023-10-04-009-unlock-slow-charging-port.jpg){ loading=lazy }
+
+Порт быстрой зарядки:
+
+* в багажнике на левой стенке под крючком откройте крышку
+* потяните за тросик
+
+    ??? info "схема"
+
+        ![2023-04-10-009-fast-charging-port-1](img/2023-04-10-009-fast-charging-port-1.jpg){ loading=lazy }
+
+        ![2023-04-10-009-fast-charging-port-2](img/2023-04-10-009-fast-charging-port-2.jpg){ loading=lazy }
+
 
 **X:**
 
@@ -203,13 +222,13 @@
 * одновременно тянем тросик и аккуратно тянем за крышку зарядного порта вниз
 
 ??? info "схема"
-    ![2023-10-04-x-unlock-charging-port](img/2023-10-04-x-unlock-charging-port.jpg)
+    ![2023-10-04-x-unlock-charging-port](img/2023-10-04-x-unlock-charging-port.jpg){ loading=lazy }
 
 ## Как аварийно разбокировать зарядный пистолет - AC?
 
 *AC - медленная зарядка.*
 
-**001**
+**001 и 009**
 
 * в арке переднего левого колеса сверху справа (*на два часа*) поверните
   заглушку
@@ -217,12 +236,9 @@
 * вытащите зарядный пистолет
 * установите на место заглушку
 
-??? info "схема"
-    ![2023-10-04-001-unlock-charging-gun](img/2023-10-04-001-unlock-charging-gun.jpg)
+??? info "схема для 001"
+    ![2023-10-04-001-unlock-charging-gun](img/2023-10-04-001-unlock-charging-gun.jpg){ loading=lazy }
 
-**TODO: for 009**
-
-*то же самое, что и для 001?*
 
 **X:**
 
@@ -230,7 +246,7 @@
 * слева у стенки будет лючок, под ним тросик
 
 ??? info "схема"
-    ![2023-10-04-x-unlock-charging-gun](img/2023-10-04-x-unlock-charging-gun.jpg)
+    ![2023-10-04-x-unlock-charging-gun](img/2023-10-04-x-unlock-charging-gun.jpg){ loading=lazy }
 
 ## Как аварийно разблокировать зарядный пистолет - DC?
 
@@ -264,4 +280,4 @@
 **X:**
 
 ??? info "схема"
-    ![2023-10-04-x-jack-positions](img/2023-10-04-x-jack-positions.jpg)
+    ![2023-10-04-x-jack-positions](img/2023-10-04-x-jack-positions.jpg){ loading=lazy }
