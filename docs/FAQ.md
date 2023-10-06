@@ -300,3 +300,7 @@
 
 ??? info "схема"
     ![2023-10-04-x-jack-positions](img/2023-10-04-x-jack-positions.jpg){ loading=lazy }
+
+## Штатная зарядка Zeekr
+
+[Подключение + машинный перевод инструкции](README.md#podklyuchenie-shtatnoy-zaryadki)
