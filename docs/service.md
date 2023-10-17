@@ -17,6 +17,8 @@
 
 Каждые 24 месяца (*12 месяцев в суровых условиях, см. в шапке*).
 
+DOT4.
+
 
 ## Салонный фильтр
 
@@ -32,6 +34,11 @@
 
     Оригинальный фильтр:
     ![2023-10-12-001-cabin-filter-1](img/2023-10-12-001-cabin-filter-1.jpeg){ loading=lazy }
+    ![2023-10-17-001-cabin-filter-1](img/2023-10-17-001-cabin-filter-1.jpeg){ loading=lazy }
+    ![2023-10-17-001-cabin-filter-2](img/2023-10-17-001-cabin-filter-2.jpeg){ loading=lazy }
+    ![2023-10-17-001-cabin-filter-3](img/2023-10-17-001-cabin-filter-3.jpeg){ loading=lazy }
+    ![2023-10-17-001-cabin-filter-4](img/2023-10-17-001-cabin-filter-4.jpeg){ loading=lazy }
+    ![2023-10-17-001-cabin-filter-5](img/2023-10-17-001-cabin-filter-5.jpeg){ loading=lazy }
 
 
 ??? info "X"
@@ -42,6 +49,36 @@
     ![2023-10-09-x-cabin-filter-5](img/2023-10-09-x-cabin-filter-5.jpeg){ loading=lazy }
     ![2023-10-09-x-cabin-filter-6](img/2023-10-09-x-cabin-filter-6.jpeg){ loading=lazy }
     ![2023-10-09-x-cabin-filter-7](img/2023-10-09-x-cabin-filter-7.jpeg){ loading=lazy }
+
+
+
+## Масло в редукторах
+
+Каждые 40,000км (*20,000км в суровых условиях, см. в шапке*).
+
+
+[Посмотрите свои модели двигателей](FAQ.md#gde-posmotret-nomera-modeli-dvigateley-).
+
+Требуемые объемы масла для редуктора в зависимости от мотора:
+
+* Nidec (Япония) - TZ184XY180: 1.6л - IDEMITSU MOTF TS-1
+
+    * японские моторы, которые устанавливались на старте
+    * каталожные номера масла: IDEMITSU: CVTFEX1, IDEMITSU: CVTF-EX1, LIFAN:
+      3346041, GEELY: 4060206193.
+
+        ??? info "оригинальное масло - редуктор мотора Nidec"
+            Оригинальное масло Lynk & Co то же самое как и у Geely GE13:
+
+            ![2023-10-09-001-oil-lynk](img/2023-10-09-001-oil-lynk.jpeg){ loading=lazy }
+
+            ![2023-10-09-001-oil-ge13-1](img/2023-10-09-001-oil-ge13-1.jpeg){ loading=lazy }
+
+            ![2023-10-09-001-oil-ge13-2](img/2023-10-09-001-oil-ge13-2.jpeg){ loading=lazy }
+
+* Wei Rui (Китай) - TZ220XSA01: 0.9л - Dexron VI
+* Wei Rui (Китай) - TZ220XSA02: ? 0.9л - ? Dexron VI
+* Wei Rui (Китай) - TZ180XSB01: ? 0.9л - ? Dexron VI
 
 
 ## Охлаждающая жидкость
@@ -60,34 +97,21 @@
 ??? info "фото"
 
     ![2023-10-08-coolant-1](img/2023-10-08-coolant-1.jpg){ loading=lazy }
-    
+
     ![2023-10-08-coolant-2](img/2023-10-08-coolant-2.jpg){ loading=lazy }
 
+??? info "001 - объемы систем"
 
-## Масло в редукторах
+    Охлаждение батареи:
 
-Каждые 40,000км (*20,000км в суровых условиях, см. в шапке*).
+    * CATL: 8.2 ± 0.5L
+    * Wei Rui, 86kWh: 8.8 ± 0.5L
+    * Wei Rui, 100kWh: 9.3 ± 0.5L
 
+    Охлаждение двигателя (см. тип двигателя [тут](service.md#maslo-v-reduktorah)):
 
-[Посмотрите модели двигателей](FAQ.md#gde-posmotret-nomera-modeli-dvigateley-):
+    * Nidec - задний привод: 6.05 ± 0.5L
+    * Nidec - полный привод: 6.4 ± 0.5L
+    * Wei Rui - задний привод: 6.4 ± 0.5L
+    * Wei Rui - полный привод: 7.3 ± 0.5L
 
-Требуемые объемы масла для редуктора в зависимости от мотора:
-
-* Nidec - TZ184XY180: 1.6л **уточнить масло**
-
-    * *японские моторы, которые устанавливались на старте*
-
-* Wei Rui - TZ220XSA01: 0.9л - Dexron VI
-* Wei Rui - TZ220XSA02: 0.9л **уточнить объем и масло**
-* Wei Rui - TZ180XSB01: 0.9л **уточнить объем и масло**
-
-
-
-??? info "оригинальное масло"
-    Оригинальное масло Lynk & Co то же самое как и у Geely GE13:
-
-    ![2023-10-09-001-oil-lynk](img/2023-10-09-001-oil-lynk.jpeg){ loading=lazy }
-    
-    ![2023-10-09-001-oil-ge13-1](img/2023-10-09-001-oil-ge13-1.jpeg){ loading=lazy }
-    
-    ![2023-10-09-001-oil-ge13-2](img/2023-10-09-001-oil-ge13-2.jpeg){ loading=lazy }
