@@ -147,3 +147,21 @@ DOT4.
 ### Снятие дверных карт
 
 [Видео для Zeekr 001](https://youtu.be/Vq7qfQwOVvg?si=H77TDMJ8ndbtE6h3).
+
+
+## Предохранители
+
+??? info "Фото предохранителя с двумя перемычками"
+    ![2023-11-12-fuse-3-leg-1](img/2023-11-12-fuse-3-leg-1.jpeg){ loading=lazy }
+    ![2023-11-12-fuse-3-leg-2](img/2023-11-12-fuse-3-leg-2.jpeg){ loading=lazy }
+
+[Где предохранители смотреть тут.](FAQ.md#gde-predohraniteli-)
+
+----
+
+
+??? info "001: порт OBDII / планшет"
+    ![2023-11-12-001-fuse-obd](img/2023-11-12-001-fuse-obd.jpeg){ loading=lazy }
+
+??? info "001: камеры 360"
+    ![camera-360-reset](img/2023-10-09-001-camera-360-reset.png){ loading=lazy }

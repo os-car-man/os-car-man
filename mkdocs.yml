@@ -23,6 +23,7 @@ nav:
      - Введение: README.md
      - "WeChat & eSender": wechat_n_esender.md
      - "Активация машины / RNR": activate_car.md
+     - "Голосовые команды на китайском": voice_commands.md
   - "Zeekr из Китая - Обслуживание": service.md
   - "Zeekr из Китая - FAQ": FAQ.md
   - "Поучаствовать": CONTRIBUTING.md
