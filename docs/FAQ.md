@@ -626,6 +626,20 @@ ____
 "вернуться" самостоятельно -- [смотреть тут](https://t.me/zeekrclub_tech/41988).
 
 
+## Как вернуть возможность установки приложений на прошивках 5+?
+
+
+При наличии открытого инженерного меню. Через ADB вводим 3 команды:
+
+```
+adb shell pm disable com.ecarx.xsfinstallverifier
+adb shell settings put global package_verifier_enable 0
+adb shell settings put global verifier_verify_adb_installs 0
+```
+
+после этого можно устанавливать приложения как и на версиях ниже (через adb или браузер).
+
+
 ## Где слот для SD карты?
 
 ZEEKR принимает microSDXC карты 10 класс 64GB (_рекомендует руководство_) или
