@@ -24,8 +24,10 @@ nav:
      - "WeChat & eSender": wechat_n_esender.md
      - "Активация машины / RNR": activate_car.md
      - "Голосовые команды на китайском": voice_commands.md
-  - "Zeekr из Китая - Обслуживание": service.md
+     - "Мобильное приложение": mobile_app.md
   - "Zeekr из Китая - FAQ": FAQ.md
+  - "Zeekr из Китая - Обслуживание": service.md
+  - "Zeekr из Китая - Документы": documents.md
   - "Поучаствовать": CONTRIBUTING.md
   - "О проекте": about.md
 
