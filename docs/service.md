@@ -96,7 +96,7 @@ DOT4.
 
 * Wei Rui (Китай) - TZ220XSA01: 0.9л - Dexron VI
 * Wei Rui (Китай) - TZ220XSA02: ? 0.9л - ? Dexron VI
-* Wei Rui (Китай) - TZ180XSB01: ? 0.9л - ? Dexron VI
+* Wei Rui (Китай) - TZ180XSB01: 0.7л - Dexron VI
 
 
 
