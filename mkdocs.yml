@@ -14,8 +14,8 @@ theme:
     edit: material/pencil
     view: material/eye
 
-repo_name: westandskif/os-car-man
-repo_url: https://github.com/westandskif/os-car-man
+repo_name: os-car-man/os-car-man
+repo_url: https://github.com/os-car-man/os-car-man
 edit_uri: edit/main/docs/
 
 nav:
