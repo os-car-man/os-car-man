@@ -680,6 +680,22 @@ exit
 после этого можно устанавливать приложения как и на версиях ниже (через adb или браузер).
 
 
+## Как вернуть клавиатуру после установки обновления?
+
+
+Для установки Яндекс клавиатуры по умолчанию, при условии, что у вас уже стоит ruStore и вы можете установить ее. Вот список команд:
+
+```
+adb shell
+su
+ime enable com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME
+ime enable ru.yandex.androidkeyboard/com.android.inputmethod.latin.LatinIME
+ime set ru.yandex.androidkeyboard/com.android.inputmethod.latin.LatinIME
+```
+
+после этого яндекс клавиатура должна стать основной в системе.
+
+
 ## Где слот для SD карты?
 
 ZEEKR принимает microSDXC карты 10 класс 64GB (_рекомендует руководство_) или
