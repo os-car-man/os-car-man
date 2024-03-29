@@ -163,6 +163,12 @@ DOT4.
 
 ## Разборка
 
+### Устранение ошибки BSD/LCC this driving cycle is limited
+
+Спасибо gudman за предоставленную информацию:
+
+[Устранение ошибки BSD/LCC](https://telegra.ph/Ustranenie-oshibki-BSDLCC-this-driving-cycle-is-limited-03-29). 
+
 ### Cнятие блоков телематики и мультимедиа
 
 Снятие блока телематики необходимо для перепайки симки, блока мультимедиа для
