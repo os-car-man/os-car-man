@@ -14,6 +14,11 @@ theme:
     edit: material/pencil
     view: material/eye
 
+extra:
+  analytics:
+    provider: google
+    property: G-1B2Q19P4HM
+
 repo_name: os-car-man/os-car-man
 repo_url: https://github.com/os-car-man/os-car-man
 edit_uri: edit/main/docs/

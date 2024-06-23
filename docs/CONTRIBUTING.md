@@ -47,10 +47,6 @@
 
 #### Добавление плагинов / библиотек
 
-- `make bash`
-- `cd ci-requirements/`
-- `poetry add {name_of_dependency}`
-- `poetry export -o requirements.txt`
-- выйти из контейнера
+- добавить библиотеку в `ci-requirements/requirements-3.11.in`
 - `make build`
 - `make docs`

@@ -17,4 +17,4 @@ mkdocs:
 # Optionally declare the Python requirements required to build your docs
 python:
    install:
-     - requirements: ci-requirements/requirements.txt
+     - requirements: ci-requirements/requirements-3.11.out

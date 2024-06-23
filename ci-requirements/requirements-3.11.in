@@ -1,0 +1,8 @@
+markdown-include
+mdx-truly-sane-lists
+mkdocs
+mkdocs-exclude
+mkdocs-material
+pygments
+pymdown-extensions
+mkdocs-git-revision-date-localized-plugin

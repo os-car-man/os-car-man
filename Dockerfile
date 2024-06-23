@@ -13,12 +13,9 @@ USER $user
 RUN mkdir -p /home/$user/project
 WORKDIR /home/$user/project
 
-
 ENV PATH="$PATH:/home/$user/.local/bin"
-RUN curl -sSL https://install.python-poetry.org | python3 -
-
-COPY ci-requirements/requirements.txt ci-requirements/requirements.txt 
-RUN pip install -r ci-requirements/requirements.txt
+COPY ci-requirements/requirements-3.11.out ci-requirements/requirements-3.11.out
+RUN pip install -r ci-requirements/requirements-3.11.out
 
 EXPOSE 7777
 
