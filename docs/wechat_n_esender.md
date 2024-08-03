@@ -1,2 +1,3 @@
-[Отличный гайд по получению китайского номера через WeChat+eSender от ребят из
-liautorussia.ru](https://faq.liautorussia.ru/Application-activation)
+[Отличный гайд как получить китайский номер телефон.
+
+](https://t.me/zeekrclub/158198/590757)
