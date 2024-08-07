@@ -9,3 +9,7 @@
 ## Zeekr 001 All new
 
 [Руководство пользователя ZEEKR 001 All new на русском](https://t.me/zeekrclub/489048/528540)
+
+## Обновление Zeekr X
+
+[Обновление Х, краткая инструкция](https://t.me/zeekrclub/158198/462256)
