@@ -131,7 +131,7 @@ DOT4.
 Заправочные объемы:
 Передний редуктор - 1,7л ± 0,1л.
 Задний редуктор -  2,2 л
-Медная шайба в передний редуктор: [OZON] (https://www.ozon.ru/product/shayba-mednaya-prokladka-18h24h1-mm-10sht-1059427473/?__rr=1)
+Медная шайба в передний редуктор: [OZON](https://www.ozon.ru/product/shayba-mednaya-prokladka-18h24h1-mm-10sht-1059427473/?__rr=1)
 
 
 ## Охлаждающая жидкость
